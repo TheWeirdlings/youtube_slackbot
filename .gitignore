@@ -1,3 +1,4 @@
+*.swp
 *.gem
 *.rbc
 /.config
@@ -35,3 +36,6 @@ build/
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
 .env
+
+# Ignore application configuration
+/config/application.yml

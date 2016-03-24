@@ -1,0 +1,14 @@
+# YouTube Config
+CHANNEL_ID: "some_channel_id"
+API_KEY: "some_api_key"
+
+# Slack Config
+# SLACK_WEB_HOOK: "https://hooks.slack.com/service/1234ABCD"
+
+# Database Config
+# POSTGRES_URL: "postgres://your-database-url"
+# POSTGRES_HOST: "your-database-host"
+# POSTGRES_PORT: "5432"
+# POSTGRES_USERNAME: "db_username"
+# POSTGRES_PASSWORD: "db_password"
+# POSTGRES_DBNAME: "dbname"

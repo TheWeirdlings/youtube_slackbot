@@ -1,0 +1,2 @@
+module YoutubeSlackbot
+end
